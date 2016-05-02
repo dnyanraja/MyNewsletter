@@ -1,11 +1,11 @@
 <?php
 /*
 Plugin Name: GV Newsletter 2
-Plugin URI: http://GaneshVeer.com
+Plugin URI: http://webandseoguide.tk/
 Description: Allows visitors to subscribe for the website updates.
 Version: 0.1
 Author: Ganesh Veer
-Author URI: http://GaneshVeer.com
+Author URI:http://webandseoguide.tk/
 */
 
 //Global
